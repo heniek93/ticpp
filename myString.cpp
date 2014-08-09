@@ -1,3 +1,5 @@
+// thinking in c++
+// rozdzial8 zadanie20
 #include <iostream>
 #include <string>
 using namespace std;
